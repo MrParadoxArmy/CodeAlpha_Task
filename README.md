@@ -1,6 +1,5 @@
 # Basic Network Sniffer
 
-![Project Screenshot](1000395792.jpg)
 
 ## Overview
 
